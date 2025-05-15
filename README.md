@@ -2,7 +2,7 @@
 
 > **注意：** 记得把命令中的 `yourdomain` 改为你真实的域名
 ```bash 
-curl -Ls https://raw.githubusercontent.com/frankiejun/node-ws/refs/heads/main/setup.sh > setup.sh && chmod +x setup.sh && ./setup.sh yourdomain
+curl -Ls https://raw.githubusercontent.com/cfmcmj/node-ws/refs/heads/main/setup.sh > setup.sh && chmod +x setup.sh && ./setup.sh yourdomain
 ```
 
 
