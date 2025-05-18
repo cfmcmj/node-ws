@@ -24,6 +24,18 @@ curl -Ls https://raw.githubusercontent.com/cfmcmj/node-ws/refs/heads/main/setup.
 
 * 域名/sub查看节点信息，也是订阅地址，包含 https:// 或 http:// 前缀，非标端口，域名:端口/sub
 
+# 手动安装说明
+  File Manager上传index.js 和 package.json 文件到指定目录。
+  手动编辑 index.js：
+  在 File Manager 中，右键 index.js，选择 Edit。
+替换以下变量：
+1234.abc.com 替换为 你的域名
+3000 替换为 33028（或你的随机端口）
+de04add9-5c68-6bab-950c-08cd5320df33 替换为你的 UUID（例如 3e3a7827-45b1-4e6b-9c10-c554260e32f6）
+Setup Node.js App
+![020820](https://github.com/user-attachments/assets/0a038d95-44f2-490d-b9a5-5fa21871eff2)
+
+
     
 * 温馨提示：READAME.md为说明文件，请不要上传。
 * js混肴地址：https://obfuscator.io
