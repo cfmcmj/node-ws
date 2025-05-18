@@ -32,6 +32,7 @@ curl -Ls https://raw.githubusercontent.com/cfmcmj/node-ws/refs/heads/main/setup.
 1234.abc.com 替换为 你的域名
 3000 替换为 33028（或你的随机端口）
 de04add9-5c68-6bab-950c-08cd5320df33 替换为你的 UUID（例如 3e3a7827-45b1-4e6b-9c10-c554260e32f6）
+
 Setup Node.js App
 ![020820](https://github.com/user-attachments/assets/0a038d95-44f2-490d-b9a5-5fa21871eff2)
 
